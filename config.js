@@ -51,14 +51,14 @@ const profile = {
 const projects = [
   {
     title: 'Remote Tutor',
-    img: 'https://motawfik.com/assets/remotetutor.png',
+    img: '/assets/remotetutor.png',
     description: 'Remote tutor platform aimed to connect teachers with students by offering online quizzes and assignments with automatic grading, with uploading video recordings for the students to watch.',
     categories: ['Go', 'VueJS', 'MySQL'],
     siteUrl: 'https://remotetutoreg.com',
   },
   {
     title: 'Minigram',
-    img: 'https://motawfik.com/assets/minigram.png',
+    img: '/assets/minigram.png',
     description: 'Android app that allows users to register, share, and like photos with each other.',
     categories: ['Android', 'Kotlin', 'Firebase', 'MVVM'],
     appUrl: 'https://play.google.com/store/apps/details?id=com.motawfik.minigram',
@@ -66,7 +66,7 @@ const projects = [
   },
   {
     title: 'Voice Events',
-    img: 'https://motawfik.com/assets/voiceevents.png',
+    img: '/assets/voiceevents.png',
     description: 'Android app that uses speech recognition to allow users to create new calendar events',
     categories: ['Android', 'Kotlin'],
     appUrl: 'https://play.google.com/store/apps/details?id=com.motawfik.voicereminders',
